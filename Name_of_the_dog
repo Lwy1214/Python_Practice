@@ -1,0 +1,9 @@
+#dogname
+animal ="dog"
+name = "Fasin"
+age= 4
+hobby = "walk"
+is_adult = age >= 3
+print("My dog name is " + name )
+print(name +"'s age is " + str(age) +  ", and He love taking a walk")
+print("Is " + name + " adult? " +str(is_adult))
